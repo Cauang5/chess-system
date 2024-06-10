@@ -10,7 +10,7 @@ public class Pieces {
         position = null;
     }
 
-    public Board board() {
+    public Board getBoard() {
         return board;
     }
 
